@@ -1,6 +1,6 @@
-# Local Deep Researcher
+# DeepSeek Deep Research
 
-Local Deep Researcher is a Python-based AI research assistant that continuously searches for and extracts relevant information from the web based on a user query. It leverages a local LLM (**DeepSeek-R1:7b via Ollama**), the **Google Custom Search API** for search queries, and asynchronous webpage extraction (**Newspaper3k** or **Jina**) to generate a comprehensive, detailed report on a given topic.
+DeepSeekDeepResearch is a Python-based AI research assistant that continuously searches for and extracts relevant information from the web based on a user query. It leverages a local LLM (**DeepSeek-R1:7b via Ollama**), the **Google Custom Search API** for search queries, and asynchronous webpage extraction (**Newspaper3k** or **Jina**) to generate a comprehensive, detailed report on a given topic.
 
 The final report is saved as `final_report.txt` in the repository directory upon completion.
 
