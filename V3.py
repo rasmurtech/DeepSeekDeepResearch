@@ -26,9 +26,9 @@ except ImportError:
 # Configuration Constants
 # =======================
 # Google Custom Search settings
-GOOGLE_API_KEY = "AIzaSyDrJP3H71kXzrqNLFh6iyfnLe2gKakH1OA"  # Provided API key
+GOOGLE_API_KEY = "Your Key"  # Provided API key
 # Provided Custom Search Engine ID
-GOOGLE_CX = "43cc6a96c1bfc4d71"
+GOOGLE_CX = "Your Key"
 
 # Optional: Jina settings (only used if you do not use Newspaper3k)
 JINA_API_KEY = "REDACTED"      # Replace with your Jina API key if desired
