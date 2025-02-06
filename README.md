@@ -55,7 +55,7 @@ pip install nest_asyncio aiohttp tenacity google-api-python-client newspaper3k
 
 ### 1. Clone or Download the Repository
 
-```bash
+
 git clone https://github.com/yourusername/local-deep-researcher.git
 cd local-deep-researcher
 
