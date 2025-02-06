@@ -48,7 +48,7 @@ Local Deep Researcher is a Python-based AI research assistant that continuously 
 
 Install the Python dependencies using pip:
 
-```bash
+bash
 pip install nest_asyncio aiohttp tenacity google-api-python-client newspaper3k
 
 ## Setup
