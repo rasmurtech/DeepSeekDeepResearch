@@ -52,21 +52,9 @@ Install the Python dependencies using pip:
 pip install nest_asyncio aiohttp tenacity google-api-python-client newspaper3k
 
 ## Setup
-Clone or Download the Repository:
+
+### 1. Clone or Download the Repository
 
 ```bash
-Copy
 git clone https://github.com/yourusername/local-deep-researcher.git
 cd local-deep-researcher
-Configure API Keys:
-
-Open the main.py file.
-Replace the placeholders for GOOGLE_API_KEY and GOOGLE_CX with your actual API key and custom search engine ID.
-If using Jina for webpage extraction, replace the JINA_API_KEY and update JINA_BASE_URL as needed.
-Ensure Ollama is Installed:
-
-Verify that Ollama is installed on your system and that the command below works in your terminal:
-
-```bash
-Copy
-ollama run deepseek-r1:7b
